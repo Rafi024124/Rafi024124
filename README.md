@@ -1,6 +1,7 @@
 
 
-![Banner](./banner.png)
+<img src="./banner.png" alt="Banner" style="width: 300px; height: auto;" />
+
 
 
 
