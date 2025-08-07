@@ -1,6 +1,6 @@
 <!-- Glowy Banner -->
 <p align="center">
-  <img src="./banner.png" alt="Banner" width="520" style="border-radius: 12px; box-shadow: 0 0 15px 4px cyan; filter: drop-shadow(0 0 8px cyan);" />
+  <img src="./banner1.png" alt="Banner" width="520" style="border-radius: 12px; box-shadow: 0 0 15px 4px cyan; filter: drop-shadow(0 0 8px cyan);" />
 </p>
 
 ---
