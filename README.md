@@ -73,7 +73,7 @@
 ## 🌐 <span style="color: cyan; text-shadow: 0 0 6px cyan;">Reach Me Out</span>
 
 <p align="center" style="margin-top: 20px;">
-  <a href="https://www.facebook.com/Moahammad.Rafii?mibextid=wwXIfr&rdid=BWElufhFothxpsol&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1ZncwRC3D9%2F%3Fmibextid%3DwwXIfr#" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+  <a href="https://www.facebook.com/Moahammad.Rafii" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
     <img 
       src="https://img.icons8.com/fluency/72/000000/facebook-new.png" 
       alt="Facebook" 
@@ -141,7 +141,7 @@
 
 <div align="left" style="background:#0f172a; padding:20px; border-radius:15px; box-shadow:0 0 15px #22d3eeaa; color: cyan; text-shadow: 0 0 6px cyan;">
 
-<p align="left" style="line-height:1.6;">
+<p align="left" style="line-height:1.6; font-size: 16px;">
   🔭 I’m working - As a MERN Stack Developer.<br/>
   🌱 I’m exploring - Next.js with TypeScript to level up my skills.<br/>
   👯 I’m looking - To collaborate on exciting full-stack projects.<br/>
