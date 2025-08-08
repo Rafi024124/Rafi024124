@@ -140,28 +140,18 @@
 <h3 align="left" style="color: cyan; text-shadow: 0 0 6px cyan;">🚀 Full Stack Web Developer</h3>
 
 <div align="left" style="background:#0f172a; padding:20px; border-radius:15px; box-shadow:0 0 15px #22d3eeaa; color: cyan; text-shadow: 0 0 6px cyan;">
+<div align="left">
+<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
+</div>
 
-<p align="left" style="line-height:1.6; font-size: 16px;">
-  🔭 I’m working - As a MERN Stack Developer.<br/>
-  🌱 I’m exploring - Next.js with TypeScript to level up my skills.<br/>
-  👯 I’m looking - To collaborate on exciting full-stack projects.<br/>
-  🤔 I’m trying - To build scalable, efficient web applications.
-</p>
+### 🔭  I’m working - As a MERN Stack Developer.
+### 🌱 I’m exploring - Next.js with TypeScript to level up my skills. 
+### 👯 I’m looking - To collaborate on open source projects. 
+### 🤔  I’m trying - To build scalable, efficient web applications.
+
+
+
 
 </div>
 
-<table>
-  <tr>
-    <td valign="top" style="padding-right: 20px; color: cyan; text-shadow: 0 0 6px cyan; font-size: 16px; line-height: 1.6;">
-      🔭 I’m working - As a MERN Stack Developer.<br/>
-      🌱 I’m exploring - Next.js with TypeScript to level up my skills.<br/>
-      👯 I’m looking - To collaborate on exciting full-stack projects.<br/>
-      🤔 I’m trying - To build scalable, efficient web applications.
-    </td>
-    <td valign="top">
-      <a href="https://app.daily.dev/mdrofiuddinrafi" target="_blank" rel="noopener noreferrer">
-        <img src="https://api.daily.dev/devcards/v2/R2PC7PzEzs6BL252wYESm.png?type=default&r=z7r" width="356" alt="Md Rofi Uddin Rafi's Dev Card" style="filter: drop-shadow(0 0 12px cyan);" />
-      </a>
-    </td>
-  </tr>
-</table>
+
