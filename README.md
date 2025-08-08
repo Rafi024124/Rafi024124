@@ -133,3 +133,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" title="Java" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
 </p>
+
+<h1 align="left">Hi 👋, I'm Md Rofi Uddin Rafi</h1>
+<h3 align="left">🚀 Full Stack Web Developer</h3>
+
+<div align="left" style="background:#0f172a; padding:20px; border-radius:15px; box-shadow:0 0 15px #22d3eeaa;">
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Mail-%23DD4B25?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</p>
+
+</div>
+
