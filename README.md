@@ -174,7 +174,7 @@
 <h4 align="center">
   <a href="https://github.com/Rafi024124?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-<div align="left">
+<div align="center">
 <a href="https://app.daily.dev/mdrofiuddinrafi"><img src="https://api.daily.dev/devcards/v2/R2PC7PzEzs6BL252wYESm.png?type=default&r=z7r" width="356" alt="Md Rofi Uddin Rafi's Dev Card"/></a>
 </div>
 
