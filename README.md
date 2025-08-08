@@ -42,7 +42,7 @@
        <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Rafi024124&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-     <br><br>
+     <br><br><br><br>
   <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafi024124&theme=react" alt="GitHub Streak Stats" />
 </p>
@@ -51,7 +51,7 @@
 
    </div>
  
-  <br><br><br><br><br><br>
+  <br><br>
   
   <div align=center>
     <a href="https://github.com/Rafi024124/github-readme-stats">
