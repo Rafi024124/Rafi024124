@@ -24,6 +24,9 @@
     <a href="https://github.com/Rafi024124" title="Go to my GitHub profile">
   <img src="https://github-readme-stats.vercel.app/api?username=Rafi024124&theme=react&show_icons=true&count_private=true" alt="GitHub Stats" />
 </a>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
   </div>
  
   <br><br>
