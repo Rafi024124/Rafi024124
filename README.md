@@ -24,8 +24,9 @@
   ## 🟩 GitHub Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Rafi024124" alt="Md Rofi Uddin Rafi's GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/22d3ee/Rafi024124" alt="Md Rofi Uddin Rafi's GitHub Contribution Chart" />
 </p>
+
 <p align="center">
   <strong>💪 Total Contributions: 319</strong>
 </p>
