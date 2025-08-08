@@ -46,18 +46,18 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Rafi024124/Plant-Client" title="Plant-Client"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Plant-Client&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Rafi024124/Blog-Share-Client" title="Blog-Share"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Blog-Share-Client&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Rafi024124/Apple-Attires" title="Apple-Attires"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Apple-Attires&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Rafi024124/Appfinity" title="Appfinity"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Apple-Attires&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Rafi024124?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 ---
