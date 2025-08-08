@@ -25,11 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rafi024124&theme=react&show_icons=true&count_private=true" alt="GitHub Stats" />
 </a>
   </div>
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Rafi024124&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
+ 
   <br><br><br><br><br><br><br><br><br>
   
   <div align=center>
