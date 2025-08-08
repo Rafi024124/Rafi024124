@@ -36,34 +36,7 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
- <a align="left" href="https://github.com/Rafi024124/Gymetry-fitness-client" title="Gymetry - Your Ultimate Fitness Tracker">
-  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Gymetry-fitness-client&theme=react&border_color=61dafb&border_radius=10">
-</a>
-<a align="right" href="https://github.com/Rafi024124/Cholo-Kotha-Boli-App" title="Cholo-Kotha-Boli-App"><img align="right" height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Cholo-Kotha-Boli-App&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Rafi024124/Apple-Attires" title="Apple-Attires"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Apple-Attires&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Rafi024124/Appfinity" title="Appfinity"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Appfinity&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Rafi024124/Plant-Client" title="Plant-Client"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Plant-Client&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Rafi024124/Blog-Share-Client" title="Blog-Share"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Blog-Share-Client&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-
-
-<h4 align="center">
-  <a href="https://github.com/Rafi024124?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
 
 ---
 
@@ -137,6 +110,34 @@
 <h3 align="left" style="color: cyan; text-shadow: 0 0 6px cyan;">🚀 Full Stack Web Developer</h3>
 
 <div align="left" style="background:#0f172a; padding:20px; border-radius:15px; box-shadow:0 0 15px #22d3eeaa; color: cyan; text-shadow: 0 0 6px cyan;">
+  <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+ <a align="left" href="https://github.com/Rafi024124/Gymetry-fitness-client" title="Gymetry - Your Ultimate Fitness Tracker">
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Gymetry-fitness-client&theme=react&border_color=61dafb&border_radius=10">
+</a>
+<a align="right" href="https://github.com/Rafi024124/Cholo-Kotha-Boli-App" title="Cholo-Kotha-Boli-App"><img align="right" height="115"  src="https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Cholo-Kotha-Boli-App&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Rafi024124/Apple-Attires" title="Apple-Attires"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Apple-Attires&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Rafi024124/Appfinity" title="Appfinity"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Appfinity&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Rafi024124/Plant-Client" title="Plant-Client"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Plant-Client&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Rafi024124/Blog-Share-Client" title="Blog-Share"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Blog-Share-Client&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+
+
+<h4 align="center">
+  <a href="https://github.com/Rafi024124?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 <div align="left">
 <a href="https://app.daily.dev/mdrofiuddinrafi"><img src="https://api.daily.dev/devcards/v2/R2PC7PzEzs6BL252wYESm.png?type=default&r=z7r" width="356" alt="Md Rofi Uddin Rafi's Dev Card"/></a>
 </div>
