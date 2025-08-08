@@ -141,7 +141,7 @@
 
 <div align="left" style="background:#0f172a; padding:20px; border-radius:15px; box-shadow:0 0 15px #22d3eeaa; color: cyan; text-shadow: 0 0 6px cyan;">
 <div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
+<a href="https://app.daily.dev/mdrofiuddinrafi"><img src="https://api.daily.dev/devcards/v2/R2PC7PzEzs6BL252wYESm.png?type=default&r=z7r" width="356" alt="Md Rofi Uddin Rafi's Dev Card"/></a>
 </div>
 
 ### 🔭  I’m working - As a MERN Stack Developer.
