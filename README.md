@@ -1,5 +1,5 @@
 <!-- Glowy Banner -->
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Rafi024124&theme=react)
+
 
 <p align="center">
   <img 
@@ -17,6 +17,8 @@
 </p>
 
 ---
+<h1 align="left" style="color: cyan; text-shadow: 0 0 6px cyan;">Hi 👋, I'm Md Rofi Uddin Rafi</h1>
+<h3 align="left" style="color: cyan; text-shadow: 0 0 6px cyan;">🚀 Full Stack Web Developer</h3>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
