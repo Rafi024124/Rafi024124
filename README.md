@@ -110,22 +110,32 @@
 
 ## 🚀 <span style="color: cyan; text-shadow: 0 0 6px cyan;">Technologies I Work With</span>
 
+<p align="center" style="color: cyan; font-weight: bold; font-size: 18px; text-shadow: 0 0 6px cyan; margin-bottom: 8px;">
+  Frontend
+</p>
 <p align="center">
-  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" title="React" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" title="Next.js" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
+</p>
 
-  <!-- Backend -->
+<p align="center" style="color: cyan; font-weight: bold; font-size: 18px; text-shadow: 0 0 6px cyan; margin-bottom: 8px; margin-top: 24px;">
+  Backend
+</p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" title="Node.js" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js" title="Express.js" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" title="MongoDB" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" title="Firebase" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
+</p>
 
-  <!-- Languages -->
+<p align="center" style="color: cyan; font-weight: bold; font-size: 18px; text-shadow: 0 0 6px cyan; margin-bottom: 8px; margin-top: 24px;">
+  Languages
+</p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" title="C" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" title="C++" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
@@ -134,8 +144,6 @@
 
 ---
 
-<h1 align="left" style="color: cyan; text-shadow: 0 0 6px cyan;">Hi 👋, I'm Md Rofi Uddin Rafi</h1>
-<h3 align="left" style="color: cyan; text-shadow: 0 0 6px cyan;">🚀 Full Stack Web Developer</h3>
 
 <div align="left" style="background:#0f172a; padding:20px; border-radius:15px; box-shadow:0 0 15px #22d3eeaa; color: cyan; text-shadow: 0 0 6px cyan;">
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
