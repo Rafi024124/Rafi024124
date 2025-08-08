@@ -1,4 +1,6 @@
 <!-- Glowy Banner -->
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Rafi024124&theme=react)
+
 <p align="center">
   <img 
     src="./banner1.png" 
