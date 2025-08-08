@@ -23,7 +23,7 @@
     
    
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  
   <div align=center>
     <a href="https://github.com/Rafi024124/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafi024124&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
@@ -55,6 +55,13 @@
   <a align="right" href="https://github.com/Rafi024124/Appfinity" title="Appfinity"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Apple-Attires&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
+| [![Gymetry](https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Gymetry-fitness-client&theme=react&border_color=61dafb&border_radius=10)](https://github.com/Rafi024124/Gymetry-fitness-client) 
+| [![Cholo Kotha Boli](https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Cholo-Kotha-Boli-App&theme=react&border_color=61dafb&border_radius=10)](https://github.com/Rafi024124/Cholo-Kotha-Boli-App) |
+|---|---|
+| [![Plant Client](https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Plant-Client&theme=react&border_color=61dafb&border_radius=10)](https://github.com/Rafi024124/Plant-Client) 
+| [![Blog Share](https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Blog-Share-Client&theme=react&border_color=61dafb&border_radius=10)](https://github.com/Rafi024124/Blog-Share-Client) |
+| [![Apple Attires](https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Apple-Attires&theme=react&border_color=61dafb&border_radius=10)](https://github.com/Rafi024124/Apple-Attires) 
+| [![Appfinity](https://github-readme-stats.vercel.app/api/pin/?username=Rafi024124&repo=Appfinity&theme=react&border_color=61dafb&border_radius=10)](https://github.com/Rafi024124/Appfinity) |
 
 <h4 align="center">
   <a href="https://github.com/Rafi024124?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
