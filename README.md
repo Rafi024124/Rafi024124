@@ -26,7 +26,7 @@
 </a>
   </div>
  
-  <br><br><br><br><br><br><br><br><br>
+  <br><br>
   
   <div align=center>
     <a href="https://github.com/Rafi024124/github-readme-stats">
