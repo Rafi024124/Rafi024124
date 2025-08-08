@@ -16,7 +16,7 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📈 <span style="color: cyan; text-shadow: 0 0 6px cyan;">GitHub Stats & Activity</span>
 
 <p align="center">
   <img 
@@ -70,7 +70,7 @@
 
 ---
 
-## 🌐 Reach Me Out
+## 🌐 <span style="color: cyan; text-shadow: 0 0 6px cyan;">Reach Me Out</span>
 
 <p align="center" style="margin-top: 20px;">
   <a href="https://www.facebook.com/Moahammad.Rafii?mibextid=wwXIfr&rdid=BWElufhFothxpsol&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1ZncwRC3D9%2F%3Fmibextid%3DwwXIfr#" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
@@ -110,7 +110,7 @@
 
 ---
 
-## 🚀 Technologies I Work With
+## 🚀 <span style="color: cyan; text-shadow: 0 0 6px cyan;">Technologies I Work With</span>
 
 <p align="center">
   <!-- Frontend -->
@@ -134,21 +134,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" title="Java" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
 </p>
 
-<h1 align="left">Hi 👋, I'm Md Rofi Uddin Rafi</h1>
-<h3 align="left">🚀 Full Stack Web Developer</h3>
+---
 
-<div align="left" style="background:#0f172a; padding:20px; border-radius:15px; box-shadow:0 0 15px #22d3eeaa;">
+<h1 align="left" style="color: cyan; text-shadow: 0 0 6px cyan;">Hi 👋, I'm Md Rofi Uddin Rafi</h1>
+<h3 align="left" style="color: cyan; text-shadow: 0 0 6px cyan;">🚀 Full Stack Web Developer</h3>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Mail-%23DD4B25?style=for-the-badge&logo=gmail&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<div align="left" style="background:#0f172a; padding:20px; border-radius:15px; box-shadow:0 0 15px #22d3eeaa; color: cyan; text-shadow: 0 0 6px cyan;">
+
+<p align="left" style="line-height:1.6;">
+  🔭 I’m working - As a MERN Stack Developer.<br/>
+  🌱 I’m exploring - Next.js with TypeScript to level up my skills.<br/>
+  👯 I’m looking - To collaborate on exciting full-stack projects.<br/>
+  🤔 I’m trying - To build scalable, efficient web applications.
 </p>
 
 </div>
+
 <table>
   <tr>
-    <td valign="top" style="padding-right: 20px;">
+    <td valign="top" style="padding-right: 20px; color: cyan; text-shadow: 0 0 6px cyan; font-size: 16px; line-height: 1.6;">
       🔭 I’m working - As a MERN Stack Developer.<br/>
       🌱 I’m exploring - Next.js with TypeScript to level up my skills.<br/>
       👯 I’m looking - To collaborate on exciting full-stack projects.<br/>
@@ -156,9 +160,8 @@
     </td>
     <td valign="top">
       <a href="https://app.daily.dev/mdrofiuddinrafi" target="_blank" rel="noopener noreferrer">
-        <img src="https://api.daily.dev/devcards/v2/R2PC7PzEzs6BL252wYESm.png?type=default&r=z7r" width="356" alt="Md Rofi Uddin Rafi's Dev Card" />
+        <img src="https://api.daily.dev/devcards/v2/R2PC7PzEzs6BL252wYESm.png?type=default&r=z7r" width="356" alt="Md Rofi Uddin Rafi's Dev Card" style="filter: drop-shadow(0 0 12px cyan);" />
       </a>
     </td>
   </tr>
 </table>
-
