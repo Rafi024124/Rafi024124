@@ -26,7 +26,9 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/Rafi024124" alt="Md Rofi Uddin Rafi's GitHub Contribution Chart" />
 </p>
-<img src="https://komarev.com/ghpvc/?username=Rafi024124&label=🔥+Contributions&color=00FFFF&style=flat" alt="Contributions Count"/>
+<p align="center">
+  <strong>💪 Total Contributions: 319</strong>
+</p>
 
 
   </div>
