@@ -19,7 +19,7 @@
 ---
 <h1 align="center" style="color: cyan; text-shadow: 0 0 6px cyan;">Hi 👋, I'm Md Rofi Uddin Rafi</h1>
 <h3 align="center" style="color: cyan; text-shadow: 0 0 6px cyan;">🚀 Full Stack Web Developer</h3>
-<p align="center>
+<p align="center">
   I'm a passionate Full Stack Web Developer specializing in the MERN stack, building dynamic and scalable web apps. With 1+ years of experience and 10+ projects, I focus on solving real-world problems using modern technologies like React, Next.js, Node.js, and Tailwind CSS. I’m committed to delivering reliable, user-centered solutions that drive growth and enhance user experience.
 </p>
 
