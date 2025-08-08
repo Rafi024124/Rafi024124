@@ -146,18 +146,19 @@
 </p>
 
 </div>
-
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div>
-    🔭 I’m working - As a MERN Stack Developer.<br/>
-    🌱 I’m exploring - Next.js with TypeScript to level up my skills.<br/>
-    👯 I’m looking - To collaborate on exciting full-stack projects.<br/>
-    🤔 I’m trying - To build scalable, efficient web applications.
-  </div>
-  <div>
-    <a href="https://app.daily.dev/mdrofiuddinrafi" target="_blank" rel="noopener noreferrer">
-      <img src="https://api.daily.dev/devcards/v2/R2PC7PzEzs6BL252wYESm.png?type=default&r=z7r" width="356" alt="Md Rofi Uddin Rafi's Dev Card" />
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td valign="top" style="padding-right: 20px;">
+      🔭 I’m working - As a MERN Stack Developer.<br/>
+      🌱 I’m exploring - Next.js with TypeScript to level up my skills.<br/>
+      👯 I’m looking - To collaborate on exciting full-stack projects.<br/>
+      🤔 I’m trying - To build scalable, efficient web applications.
+    </td>
+    <td valign="top">
+      <a href="https://app.daily.dev/mdrofiuddinrafi" target="_blank" rel="noopener noreferrer">
+        <img src="https://api.daily.dev/devcards/v2/R2PC7PzEzs6BL252wYESm.png?type=default&r=z7r" width="356" alt="Md Rofi Uddin Rafi's Dev Card" />
+      </a>
+    </td>
+  </tr>
+</table>
 
