@@ -72,6 +72,18 @@
 ## 🌐 <span style="color: cyan; text-shadow: 0 0 6px cyan;">Reach Me Out</span>
 
 <p align="center" style="margin-top: 20px;">
+  <a href="https://wa.me/8801611533352" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+    <img 
+      src="https://img.icons8.com/fluency/72/000000/whatsapp.png" 
+      alt="WhatsApp" 
+      style="
+        filter: drop-shadow(0 0 15px cyan); 
+        border-radius: 12px;
+        transition: filter 0.3s ease-in-out;
+      " 
+    />
+  </a>
+
   <a href="https://www.facebook.com/Moahammad.Rafii" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
     <img 
       src="https://img.icons8.com/fluency/72/000000/facebook-new.png" 
@@ -83,6 +95,7 @@
       " 
     />
   </a>
+
   <a href="https://www.linkedin.com/in/mdrofiuddin/" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
     <img 
       src="https://img.icons8.com/fluency/72/000000/linkedin.png" 
@@ -94,6 +107,7 @@
       " 
     />
   </a>
+
   <a href="mailto:md.rafi888444@gmail.com" style="margin: 0 15px;">
     <img 
       src="https://img.icons8.com/fluency/72/000000/gmail-new.png" 
@@ -106,6 +120,7 @@
     />
   </a>
 </p>
+
 
 ---
 
@@ -141,6 +156,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" title="C++" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" title="Java" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
+</p>
+<p align="center" style="color: cyan; font-weight: bold; font-size: 18px; text-shadow: 0 0 6px cyan; margin-bottom: 8px; margin-top: 24px;">
+  Databases & Tools
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" title="MongoDB" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" title="Firebase" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" title="GitHub" style="margin: 8px; filter: drop-shadow(0 0 10px cyan);" />
 </p>
 
 ---
